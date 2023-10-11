@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MDApplication</string>
+    <string name="favoritos">Los 5 Favoritos</string>
+    <string name="mascotas">Mascotas</string>
+    <string name="contacto">Contacto</string>
+    <string name="acerca">Acerca De</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar">Enviar</string>
+    <string name="configcuenta">Configurar Cuenta</string>
+
+
+    <string name="titulo_c">Cuenta de Instagram</string>
+    <string name="nombre_c">Nombres de usuario</string>
+    <string name="guardar_c">Guardar</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
